@@ -21,11 +21,7 @@
 
 
 
- <div align=center>
-        <h1>Contribution Activity</h1>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk10082000&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"><br><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=vk10082000&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br><br>  
+
 
 
 
