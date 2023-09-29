@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamshikrishna Bejjarapu</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **ReactJS,Redux,React-Redux**
 - - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
