@@ -21,9 +21,9 @@
 
 - ✉ Gmail :  vamshikrishna1008@gmail.com
 
-- 🔗 Portfolio :
+- 🔗 Portfolio :https://vk10082000.github.io/
 
-- 📄 Resume :
+- 📄 Resume :https://drive.google.com/file/d/1MgCbVpVb6bwEBBGu4k_MU1kgXRk9ilaw/view?usp=drive_link
 
 <h3 align="left">Languages and Tools:</h3>
 <p dir="auto">
